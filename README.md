@@ -8,6 +8,8 @@
 3. [Front End Libraries Certification](https://github.com/abhiramready/Full-Stack-Journey#3-front-end-libraries-certification)
 
  ## 1. Responsive Web Designing Certification
+ ✅ FreeCodeCamp Certified
+ 
  🎯 Topics covered
  
  * HTML, CSS basics
@@ -34,6 +36,8 @@
 ****
 
  ## 2. JavaScript Algorithms and Data Structures Certification
+ ✅ FreeCodeCamp Certified
+
  🎯 Topics covered
  
  * Basic JavaScript, ES6
