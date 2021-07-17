@@ -17,19 +17,19 @@
 ## ✨ Projects 
 * Click on projects to see live demo/code
 ### 1.1. Build a Tribute Page
-[![](https://github.com/abhiramready/Full-Stack-Journey/blob/master/images/TributePage.png)](https://codepen.io/abhiramready/full/WNrMaXV)
+[![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/TributePage.png)](https://codepen.io/abhiramready/full/WNrMaXV)
 
 ### 1.2. Build a Survey Form
-[![](https://github.com/abhiramready/Full-Stack-Journey/blob/master/images/FeedbackForm.png)](https://codepen.io/abhiramready/full/zYrWEQw)
+[![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/FeedbackForm.png)](https://codepen.io/abhiramready/full/zYrWEQw)
 
 ### 1.3. Build a Product Landing Page
-[![](https://github.com/abhiramready/Full-Stack-Journey/blob/master/images/ProductLandingPage.png)](https://codepen.io/abhiramready/full/xxZaxVZ)
+[![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/ProductLandingPage.png)](https://codepen.io/abhiramready/full/xxZaxVZ)
 
 ### 1.4. Build a Technical Documentaion Page
-[![](https://github.com/abhiramready/Full-Stack-Journey/blob/master/images/Technical%20Documentation.png)](https://codepen.io/abhiramready/full/vYLzQJZ)
+[![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/Technical%20Documentation.png)](https://codepen.io/abhiramready/full/vYLzQJZ)
 
 ### 1.5. Build a Personal Portfolio Page
-[![](https://github.com/abhiramready/Full-Stack-Journey/blob/master/images/PorfolioPage.png)](https://codepen.io/abhiramready/full/jOWejBK)
+[![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/PorfolioPage.png)](https://codepen.io/abhiramready/full/jOWejBK)
 
 ****
 
@@ -185,11 +185,11 @@ console.log(checkCashRegister(19.5, 20, [["PENNY", 1.01], ["NICKEL", 2.05], ["DI
 * Click on projects to see live demo/code
 
 ### 3.1. Build a Random Quote Machine
-[![](https://github.com/abhiramready/Full-Stack-Journey/blob/master/images/quote.png)](https://codepen.io/abhiramready/full/OJpmYVQ)
+[![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/quote.png)](https://codepen.io/abhiramready/full/OJpmYVQ)
 
 ### 3.2. Build a Markdown Previewer
-[![](https://github.com/abhiramready/Full-Stack-Journey/blob/master/images/markdown.png)](https://codepen.io/abhiramready/full/QWpabLK)
+[![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/markdown.png)](https://codepen.io/abhiramready/full/QWpabLK)
 
 ### 3.3. Build a Drum Machine
-[![](https://github.com/abhiramready/Full-Stack-Journey/blob/master/images/drum-machine.png)](https://codepen.io/abhiramready/full/poepVYb)
+[![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/drum-machine.png)](https://codepen.io/abhiramready/full/poepVYb)
 ****
