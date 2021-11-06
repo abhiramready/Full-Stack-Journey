@@ -1,4 +1,4 @@
-## 1. Responsive Web Designing Certification
+# 1. Responsive Web Designing Certification
 
  ✅ FreeCodeCamp Certified
  
