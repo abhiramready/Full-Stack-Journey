@@ -1,41 +1,5 @@
-<h1 align="center">
-	📚Full Stack Journey🚀
-</h1>
-
-## Certifications & Projects
-1. [Responsive Web Designing Certification](https://github.com/abhiramready/Full-Stack-Journey#1-responsive-web-designing-certification)
-2. [JavaScript Algorithms and Data Structures Certification](https://github.com/abhiramready/Full-Stack-Journey#2-javascript-algorithms-and-data-structures-certification)
-3. [Front End Libraries Certification](https://github.com/abhiramready/Full-Stack-Journey#3-front-end-libraries-certification)
-
- ## 1. Responsive Web Designing Certification
- ✅ FreeCodeCamp Certified
+# 2. JavaScript Algorithms and Data Structures Certification
  
- 🎯 Topics covered
- 
- * HTML, CSS basics
- * CSS Grid and Flexbox
- * Applied Visual Design and Acessibililty
-
-## ✨ Projects 
-* Click on projects to see live demo/code
-### 1.1. Build a Tribute Page
-[![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/TributePage.png)](https://codepen.io/abhiramready/full/WNrMaXV)
-
-### 1.2. Build a Survey Form
-[![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/FeedbackForm.png)](https://codepen.io/abhiramready/full/zYrWEQw)
-
-### 1.3. Build a Product Landing Page
-[![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/ProductLandingPage.png)](https://codepen.io/abhiramready/full/xxZaxVZ)
-
-### 1.4. Build a Technical Documentaion Page
-[![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/Technical%20Documentation.png)](https://codepen.io/abhiramready/full/vYLzQJZ)
-
-### 1.5. Build a Personal Portfolio Page
-[![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/PorfolioPage.png)](https://codepen.io/abhiramready/full/jOWejBK)
-
-****
-
- ## 2. JavaScript Algorithms and Data Structures Certification
  ✅ FreeCodeCamp Certified
 
  🎯 Topics covered
@@ -46,7 +10,8 @@
  * Basic Data Structures and Algorithms
  
 ## ✨ Projects 
-### 2.1  Palindrome Checker
+
+## 1. Palindrome Checker
 
 ```javascript
 function palindrome(str) {
@@ -64,7 +29,7 @@ function palindrome(str) {
 palindrome("eye");
 ```
 
-### 2.2  Roman Numeral Converter
+## 2. Roman Numeral Converter
 ```javascript
 function convertToRoman(num) {
   const decimalValue 
@@ -88,7 +53,7 @@ function convertToRoman(num) {
 convertToRoman(36);
 ```
 
-### 2.3  Caesars Cipher
+## 3. Caesars Cipher
 ```javascript
 function rot13(str) {
   return str
@@ -101,7 +66,7 @@ function rot13(str) {
 console.log(rot13("SERR PBQR PNZC"));
 ```
 
-### 2.4  Telephone Number Validator
+## 4. Telephone Number Validator
 ```javascript
 function telephoneCheck(str) {
   return (/^(1\s?)?(\(\d{3}\)|\d{3})[\s\-]?\d{3}[\s\-]?\d{4}$/).test(str);
@@ -110,7 +75,7 @@ function telephoneCheck(str) {
 telephoneCheck("555-555-5555");
 ```
 
-### 2.5  Cash Register
+## 5. Cash Register
 ```javascript
 const denomination = [
   { name: "ONE HUNDRED", value: 100.0 },
@@ -174,26 +139,3 @@ function checkCashRegister(price, cash, cid) {
 
 console.log(checkCashRegister(19.5, 20, [["PENNY", 1.01], ["NICKEL", 2.05], ["DIME", 3.1], ["QUARTER", 4.25], ["ONE", 90], ["FIVE", 55], ["TEN", 20], ["TWENTY", 60], ["ONE HUNDRED", 100]]));
 ```
-
-****
- ## 3. Front End Libraries Certification
- 🎯 Topics covered
- 
- * Sass
- * jQuery
- * Bootstrap
- * React and Redux
- 
- 
-## ✨ Projects 
-* Click on projects to see live demo/code
-
-### 3.1. Build a Random Quote Machine
-[![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/quote.png)](https://codepen.io/abhiramready/full/OJpmYVQ)
-
-### 3.2. Build a Markdown Previewer
-[![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/markdown.png)](https://codepen.io/abhiramready/full/QWpabLK)
-
-### 3.3. Build a Drum Machine
-[![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/drum-machine.png)](https://codepen.io/abhiramready/full/poepVYb)
-****
