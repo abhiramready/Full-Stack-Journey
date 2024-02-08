@@ -31,4 +31,4 @@
 [![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/Calculator.png)](https://codepen.io/abhiramready/full/QWvoBwV)
 
 ## 5. Build a 25 + 5 Clock
-[![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/Calculator.png)](https://codepen.io/abhiramready/full/oNeVJZW)
+[![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/25%2B5Clock.png)](https://codepen.io/abhiramready/full/oNeVJZW)
