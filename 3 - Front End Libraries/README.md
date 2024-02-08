@@ -1,6 +1,6 @@
 # 3. Front End Libraries Certification
 
-⏳ In Progress
+✅ FreeCodeCamp Certified
 
  🎯 Topics covered
  * Sass
