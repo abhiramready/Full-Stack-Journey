@@ -16,6 +16,7 @@
 2. Build a Markdown Previewer
 3. Build a Drum Machine
 4. Build a Calculator
+5. Build a 25 + 5 Clock
 
 ## 1. Build a Random Quote Machine
 [![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/quote.png)](https://codepen.io/abhiramready/full/OJpmYVQ)
@@ -28,3 +29,6 @@
 
 ## 4. Build a Calculator
 [![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/Calculator.png)](https://codepen.io/abhiramready/full/QWvoBwV)
+
+## 5. Build a 25 + 5 Clock
+[![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/Calculator.png)](https://codepen.io/abhiramready/full/oNeVJZW)
