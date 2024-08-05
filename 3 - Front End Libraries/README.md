@@ -3,14 +3,14 @@
 ✅ FreeCodeCamp Certified
 
  🎯 Topics covered
- * Sass
- * jQuery
- * Bootstrap
- * React and Redux
+ - Sass
+ - jQuery
+ - Bootstrap
+ - React and Redux
  
  
 ## ✨ Projects 
-* Click on projects to see live demo/code
+Click on projects to see live demo/code
 
 1. Build a Random Quote Machine
 2. Build a Markdown Previewer
