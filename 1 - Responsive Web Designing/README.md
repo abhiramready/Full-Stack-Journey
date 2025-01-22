@@ -6,7 +6,7 @@
  
  * HTML, CSS basics
  * CSS Grid and Flexbox
- * Applied Visual Design and Acessibililty
+ * Applied Visual Design and Accessibility
 
 ## ✨ Projects 
 
@@ -15,7 +15,7 @@ Click on projects to see live demo/code
 1. Build a Tribute Page
 2. Build a Survey Form
 3. Build a Product Landing Page
-4. Build a Technical Documentaion Page
+4. Build a Technical Documentation Page
 5. Build a Personal Portfolio Page
 
 
@@ -29,7 +29,7 @@ Click on projects to see live demo/code
 ## 3. Build a Product Landing Page
 [![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/ProductLandingPage.png)](https://codepen.io/abhiramready/full/xxZaxVZ)
 
-## 4. Build a Technical Documentaion Page
+## 4. Build a Technical Documentation Page
 [![](https://github.com/abhiramready/Full-Stack-Journey/blob/main/images/Technical%20Documentation.png)](https://codepen.io/abhiramready/full/vYLzQJZ)
 
 ## 5. Build a Personal Portfolio Page
